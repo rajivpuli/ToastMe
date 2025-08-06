@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ToastMe"
 include(":app")
+include(":toastlibrary")
